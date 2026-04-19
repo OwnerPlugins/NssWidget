@@ -1,0 +1,221 @@
+# Aglare translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aglare\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-04-19 14:06+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Armenian\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "All png are removed from folder!"
+msgstr ""
+
+msgid "BebasNeue"
+msgstr ""
+
+msgid "Black"
+msgstr ""
+
+msgid "Blue"
+msgstr ""
+
+msgid "Brown"
+msgstr ""
+
+msgid "ChannelSelection Style:"
+msgstr ""
+
+msgid "ChannelSelection_1_Poster"
+msgstr ""
+
+msgid "ChannelSelection_3_Posters_V"
+msgstr ""
+
+msgid "ChannelSelection_4_Posters"
+msgstr ""
+
+msgid "ChannelSelection_6_Posters"
+msgstr ""
+
+msgid "ChannelSelection_BackDrop_V"
+msgstr ""
+
+msgid "ChannelSelection_NO_Posters_Full"
+msgstr ""
+
+msgid "ChannelSelection_NO_Posters_NO_Picon"
+msgstr ""
+
+msgid "ChannelSelection_big_mini_tv"
+msgstr ""
+
+msgid "Color Style:"
+msgstr ""
+
+msgid "Customization tool for Aglare-FHD-NSS Skin"
+msgstr ""
+
+msgid "Dark Green"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Del Line"
+msgstr ""
+
+msgid "Download in progress..."
+msgstr ""
+
+msgid "Downloading Aglare..."
+msgstr ""
+
+msgid "Error by processing the skin file !!!"
+msgstr ""
+
+msgid "Error downloading files!"
+msgstr ""
+
+msgid "EventView Style:"
+msgstr ""
+
+msgid "EventView_7_Posters"
+msgstr ""
+
+msgid "EventView_Banner"
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "File Commander - Addon"
+msgstr ""
+
+msgid "Green"
+msgstr ""
+
+msgid "Greta"
+msgstr ""
+
+msgid "HandelGotD"
+msgstr ""
+
+msgid "Import Api Key OMDB from /tmp/omdbkey.txt?"
+msgstr ""
+
+msgid "Import Api Key TMDB from /tmp/apikey.txt?"
+msgstr ""
+
+msgid "Info..."
+msgstr ""
+
+msgid "InfoBar Style:"
+msgstr ""
+
+msgid "Infobar_Date"
+msgstr ""
+
+msgid "Infobar_Posters"
+msgstr ""
+
+msgid "Infobar_Posters_MSN_Meteo"
+msgstr ""
+
+msgid "Infobar_Posters_OAW_Meteo"
+msgstr ""
+
+msgid "Ins Line"
+msgstr ""
+
+msgid "Installing updates!"
+msgstr ""
+
+msgid "KhalidArtboldRegular"
+msgstr ""
+
+msgid "MV Boli"
+msgstr ""
+
+msgid "Magenta"
+msgstr ""
+
+msgid "Missing %s !"
+msgstr ""
+
+msgid "OMDB ApiKey Imported & Stored!"
+msgstr ""
+
+msgid "OMDB ApiKey is empty!"
+msgstr ""
+
+msgid "Purple"
+msgstr ""
+
+msgid "Red"
+msgstr ""
+
+msgid "Remove all png (OK)"
+msgstr ""
+
+msgid "Restart GUI now?"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "SecondInfobar Style:"
+msgstr ""
+
+msgid "SecondInfobar_MSN_Posters"
+msgstr ""
+
+msgid "SecondInfobar_OAW_Posters"
+msgstr ""
+
+msgid "SecondInfobar_Posters"
+msgstr ""
+
+msgid "Segoe UI light"
+msgstr ""
+
+msgid "Select Your Font:"
+msgstr ""
+
+msgid "Server version:"
+msgstr ""
+
+msgid "Skin Style:"
+msgstr ""
+
+msgid "TMDB ApiKey Imported & Stored!"
+msgstr ""
+
+msgid "TMDB ApiKey is empty!"
+msgstr ""
+
+msgid "Version installed:"
+msgstr ""
+
+msgid "VolumeBar Style:"
+msgstr ""
+
+msgid "You have the current version Aglare!"
+msgstr ""
+
+msgid "You have version %s!!!"
+msgstr ""
+
+msgid "play/show Files"
+msgstr ""
+
+msgid "volume2"
+msgstr ""

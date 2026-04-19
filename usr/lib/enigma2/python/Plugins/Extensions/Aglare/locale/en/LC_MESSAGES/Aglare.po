@@ -1,0 +1,222 @@
+# Aglare translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Aglare\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-04-19 14:06+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "All png are removed from folder!"
+msgstr "All png are removed from folder!"
+
+msgid "BebasNeue"
+msgstr "BebasNeue"
+
+msgid "Black"
+msgstr "Black"
+
+msgid "Blue"
+msgstr "Blue"
+
+msgid "Brown"
+msgstr "Brown"
+
+msgid "ChannelSelection Style:"
+msgstr "ChannelSelection Style:"
+
+msgid "ChannelSelection_1_Poster"
+msgstr "ChannelSelection_1_Poster"
+
+msgid "ChannelSelection_3_Posters_V"
+msgstr "ChannelSelection_3_Posters_V"
+
+msgid "ChannelSelection_4_Posters"
+msgstr "ChannelSelection_4_Posters"
+
+msgid "ChannelSelection_6_Posters"
+msgstr "ChannelSelection_6_Posters"
+
+msgid "ChannelSelection_BackDrop_V"
+msgstr "ChannelSelection_BackDrop_V"
+
+msgid "ChannelSelection_NO_Posters_Full"
+msgstr "ChannelSelection_NO_Posters_Full"
+
+msgid "ChannelSelection_NO_Posters_NO_Picon"
+msgstr "ChannelSelection_NO_Posters_NO_Picon"
+
+msgid "ChannelSelection_big_mini_tv"
+msgstr "ChannelSelection_big_mini_tv"
+
+msgid "Color Style:"
+msgstr "Color Style:"
+
+msgid "Customization tool for Aglare-FHD-NSS Skin"
+msgstr "Customization tool for Aglare-FHD-NSS Skin"
+
+msgid "Dark Green"
+msgstr "Dark Green"
+
+msgid "Default"
+msgstr "Default"
+
+msgid "Del Line"
+msgstr "Del Line"
+
+msgid "Download in progress..."
+msgstr "Download in progress..."
+
+msgid "Downloading Aglare..."
+msgstr "Downloading Aglare..."
+
+msgid "Error by processing the skin file !!!"
+msgstr "Error by processing the skin file !!!"
+
+msgid "Error downloading files!"
+msgstr "Error downloading files!"
+
+msgid "EventView Style:"
+msgstr "EventView Style:"
+
+msgid "EventView_7_Posters"
+msgstr "EventView_7_Posters"
+
+msgid "EventView_Banner"
+msgstr "EventView_Banner"
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "File Commander - Addon"
+msgstr "File Commander - Addon"
+
+msgid "Green"
+msgstr "Green"
+
+msgid "Greta"
+msgstr "Greta"
+
+msgid "HandelGotD"
+msgstr "HandelGotD"
+
+msgid "Import Api Key OMDB from /tmp/omdbkey.txt?"
+msgstr "Import Api Key OMDB from /tmp/omdbkey.txt?"
+
+msgid "Import Api Key TMDB from /tmp/apikey.txt?"
+msgstr "Import Api Key TMDB from /tmp/apikey.txt?"
+
+msgid "Info..."
+msgstr "Info..."
+
+msgid "InfoBar Style:"
+msgstr "InfoBar Style:"
+
+msgid "Infobar_Date"
+msgstr "Infobar_Date"
+
+msgid "Infobar_Posters"
+msgstr "Infobar_Posters"
+
+msgid "Infobar_Posters_MSN_Meteo"
+msgstr "Infobar_Posters_MSN_Meteo"
+
+msgid "Infobar_Posters_OAW_Meteo"
+msgstr "Infobar_Posters_OAW_Meteo"
+
+msgid "Ins Line"
+msgstr "Ins Line"
+
+msgid "Installing updates!"
+msgstr "Installing updates!"
+
+msgid "KhalidArtboldRegular"
+msgstr "KhalidArtboldRegular"
+
+msgid "MV Boli"
+msgstr "MV Boli"
+
+msgid "Magenta"
+msgstr "Magenta"
+
+msgid "Missing %s !"
+msgstr "Missing %s !"
+
+msgid "OMDB ApiKey Imported & Stored!"
+msgstr "OMDB ApiKey Imported & Stored!"
+
+msgid "OMDB ApiKey is empty!"
+msgstr "OMDB ApiKey is empty!"
+
+msgid "Purple"
+msgstr "Purple"
+
+msgid "Red"
+msgstr "Red"
+
+msgid "Remove all png (OK)"
+msgstr "Remove all png (OK)"
+
+msgid "Restart GUI now?"
+msgstr "Restart GUI now?"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "SecondInfobar Style:"
+msgstr "SecondInfobar Style:"
+
+msgid "SecondInfobar_MSN_Posters"
+msgstr "SecondInfobar_MSN_Posters"
+
+msgid "SecondInfobar_OAW_Posters"
+msgstr "SecondInfobar_OAW_Posters"
+
+msgid "SecondInfobar_Posters"
+msgstr "SecondInfobar_Posters"
+
+msgid "Segoe UI light"
+msgstr "Segoe UI light"
+
+msgid "Select Your Font:"
+msgstr "Select Your Font:"
+
+msgid "Server version:"
+msgstr "Server version:"
+
+msgid "Skin Style:"
+msgstr "Skin Style:"
+
+msgid "TMDB ApiKey Imported & Stored!"
+msgstr "TMDB ApiKey Imported & Stored!"
+
+msgid "TMDB ApiKey is empty!"
+msgstr "TMDB ApiKey is empty!"
+
+msgid "Version installed:"
+msgstr "Version installed:"
+
+msgid "VolumeBar Style:"
+msgstr "VolumeBar Style:"
+
+msgid "You have the current version Aglare!"
+msgstr "You have the current version Aglare!"
+
+msgid "You have version %s!!!"
+msgstr "You have version %s!!!"
+
+msgid "play/show Files"
+msgstr "play/show Files"
+
+msgid "volume2"
+msgstr "volume2"
