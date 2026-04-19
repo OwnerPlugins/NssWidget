@@ -1,6 +1,6 @@
 NssWidget
 
-![](https://komarev.com/ghpvc/?username=Belfagor2005)
+![Visitors](https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet)
 
 <img src="https://raw.githubusercontent.com/Belfagor2005/NssWidget/main/screen/prev.jpg">
 
